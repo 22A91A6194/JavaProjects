@@ -5,13 +5,12 @@ Flappy Bird is an arcade-style game where the player controls a bird attempting 
 
 Project Structure:
 FlappyBirdProject
-│
-├── App.java                # Main class to start the game window
-├── FlappyBird.java         # Core game logic and rendering
-├── flappybird.png          # Bird image
-├── flappybirdbg.png        # Background image
-├── toppipe.png             # Top pipe image
-├── bottompipe.png          # Bottom pipe image
+1. App.java                # Main class to start the game window
+2. FlappyBird.java         # Core game logic and rendering
+3. flappybird.png          # Bird image
+4. flappybirdbg.png        # Background image
+5. toppipe.png             # Top pipe image
+6. bottompipe.png          # Bottom pipe image
 
 Setup:
 1. Ensure you have Java JDK installed. Open a terminal (or cmd) and navigate to the project folder.
